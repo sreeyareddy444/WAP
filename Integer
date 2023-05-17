@@ -1,1 +1,8 @@
-
+int M=25
+multiples of M
+if( M is multiples of 3 and 5)
+   print(good number)
+elif(M is multiple of 3 and not 5)
+   print(bad number)
+else(M is neither multiple of 3 and 5)
+   print -1;
